@@ -195,6 +195,31 @@ def generate_resident(condo):
     }
 
 
+def merge_datasets(df_financeiro, df_operacional):
+    """
+    Demonstra a união dos dois datasets usando o ID_Condominio como chave.
+    Agrupa os dados operacionais por condomínio para a união.
+    """
+    # Agrupa os dados operacionais por condomínio para criar uma visão agregada
+    df_operacional_agregado = (
+        df_operacional.groupby("ID_Condominio")
+        .agg(
+            Total_Ocorrencias=("ID_Registro", "count"),
+            Media_Tempo_Resolucao_Horas=("Tempo_Resolucao_Horas", "mean"),
+        )
+        .reset_index()
+    )
+
+    # Realiza o merge (união) dos dois DataFrames
+    df_merged = pd.merge(
+        df_financeiro,
+        df_operacional_agregado,
+        on="ID_Condominio",
+        how="left",  # Utiliza um left join para manter todos os dados financeiros
+    )
+    return df_merged
+
+
 # --- Coleta de informações do usuário ---
 num_condos_input = input("Insira o número de condomínios para a simulação: ")
 num_records_input = input(
@@ -236,6 +261,9 @@ nome_arquivo_operacional = "dados_operacionais_condominios.csv"
 df_financeiro.to_csv(nome_arquivo_financeiro, index=False, encoding="utf-8")
 df_operacional.to_csv(nome_arquivo_operacional, index=False, encoding="utf-8")
 
+# --- Demonstração de União (Merge) dos DataFrames ---
+df_unido = merge_datasets(df_financeiro, df_operacional)
+
 # --- Exibir Resultados ---
 print(
     f"\nA base de dados financeira '{nome_arquivo_financeiro}' foi criada com sucesso com {len(df_financeiro)} registros."
@@ -249,3 +277,6 @@ print(df_financeiro.head())
 
 print("\nPrimeiras 5 linhas do DataFrame Operacional:")
 print(df_operacional.head())
+
+print("\nPrimeiras 5 linhas do DataFrame UNIDO (Financeiro + Operacional):")
+print(df_unido.head())
