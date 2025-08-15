@@ -1,0 +1,101 @@
+ID_Registro,ID_Condominio,Tipo_Registro,Descricao,Custo_Estimado,Tipo_Manutencao,ID_Morador,Nome_Morador,Unidade,Data_Criacao,Data_Resolucao,Tempo_Resolucao_Horas
+1,08b31b18-4821-44d9-a605-e8b8ebe4b0d6,Manutencao,Manutencao preventiva em área comum,9926.94,Preventiva,,,,,,
+2,6d1d4b5f-affb-4835-bfce-7753e5ca333f,Ocorrencia,Reclamacao Barulho,,,b616db98-9eda-40f8-a287-05e4dbf2752d,Sr. Enzo Aparecida,46.0,2024-12-24 11:43:39,2024-12-25 06:30:21.371848,18.78
+3,801ef7f5-2831-47a8-baa0-1bddcc1bf85d,Ocorrencia,Pedido Reparo Area Comum,,,4c084059-ca59-4fbb-9124-33fce32008d7,Clara Viana,169.0,2024-04-17 18:38:17,2024-04-20 21:50:30.299915,75.2
+4,b05059b0-5eb2-4f26-a7f3-a43c8236d4de,Manutencao,Manutencao corretiva em área comum,7617.33,Corretiva,,,,,,
+5,a69f65dd-1115-45b0-a1b6-56b532848152,Ocorrencia,Aluguel De Salão De Festas,,,5fc6d481-5f2c-4f09-872d-6ec01d9b9453,Cecília Moreira,165.0,2023-01-21 17:12:08,2023-01-21 17:51:58.650004,0.66
+6,e82a2823-6955-461a-a940-5799d7f817a8,Manutencao,Manutencao preventiva em área comum,6700.76,Preventiva,,,,,,
+7,0b77795c-0ce1-4ccf-a06e-e76571c41bee,Manutencao,Manutencao preventiva em área comum,3438.46,Preventiva,,,,,,
+8,3753e8c4-0c96-4a38-9c26-266b21fbafc1,Ocorrencia,Reclamacao Barulho,,,f727adb0-d8c6-470a-88f5-6fedef308236,Noah Sá,101.0,2024-12-29 15:12:34,2024-12-30 10:41:46.381630,19.49
+9,06925a78-fe41-4e9d-b988-8b32850f24c4,Ocorrencia,Outros,,,0668dcd1-6116-4b31-96a6-e784e3d9537a,Beatriz Silveira,71.0,2024-10-23 00:24:12,2024-10-23 07:05:45.847699,6.69
+10,0e7822db-67bd-4ef9-9a4e-2f5268546f2f,Ocorrencia,Outros,,,3c051e93-84b2-4dd1-be2e-0e5f0cf26dfc,Sra. Ana Sophia Carvalho,171.0,2025-03-08 21:10:26,2025-03-10 15:44:01.840100,42.56
+11,319b2d9f-a573-4ca7-bab7-46cb4d771df0,Manutencao,Manutencao preventiva em área comum,1306.63,Preventiva,,,,,,
+12,cf9c3484-bb4c-4ef3-9152-427902e737ea,Manutencao,Manutencao preventiva em área comum,8448.97,Preventiva,,,,,,
+13,88132554-eb9c-430e-b6d9-6a823cbf6848,Manutencao,Manutencao preventiva em área comum,9126.5,Preventiva,,,,,,
+14,daa0b434-b105-4e2a-8cf2-dc72a807a397,Ocorrencia,Reclamacao Barulho,,,7323ec89-231a-4cd6-b79e-a9e445767c44,Ana Sophia Nunes,102.0,2025-04-19 13:40:52,2025-04-20 04:18:34.664272,14.63
+15,a69f65dd-1115-45b0-a1b6-56b532848152,Manutencao,Manutencao preventiva em área comum,4021.09,Preventiva,,,,,,
+16,b907dfbc-1665-4b7a-8ac4-86567ac8640c,Ocorrencia,Reclamação Segurança,,,d8ea90bd-cfed-4fc5-b5be-bde9e8946e76,Enrico Rodrigues,106.0,2025-02-06 02:22:08,2025-02-06 09:11:13.378904,6.82
+17,4f096d9b-8929-4a1c-83d5-912181b87694,Ocorrencia,Aluguel De Churrasqueira,,,26d3db54-8dbe-4c27-a5fc-3a14b7442459,Dra. Gabriela Alves,44.0,2024-08-28 15:02:21,2024-08-29 01:36:41.440182,10.57
+18,3753e8c4-0c96-4a38-9c26-266b21fbafc1,Ocorrencia,Problema Vazamento,,,c8020d72-17f8-408e-adbd-0341041a398b,Brayan Peixoto,69.0,2023-11-18 21:50:56,2023-11-22 19:13:08.442603,93.37
+19,ba46f9dc-1e91-4d89-994a-1ed07e610e63,Ocorrencia,Reclamacao Barulho,,,8a44e728-7018-436b-bc05-16b77cfb1a31,Vitor Hugo Cardoso,81.0,2023-07-08 20:53:34,2023-07-10 12:16:46.575857,39.39
+20,818ec8c9-bbee-4986-86c9-539e3927264b,Manutencao,Manutencao preventiva em área comum,1427.92,Preventiva,,,,,,
+21,0051c049-0446-48c2-8fda-034d639746be,Manutencao,Manutencao corretiva em área comum,5895.79,Corretiva,,,,,,
+22,1f9e0a4c-5e6e-476e-9b22-996e2e48a126,Manutencao,Manutencao preventiva em área comum,6442.69,Preventiva,,,,,,
+23,4f096d9b-8929-4a1c-83d5-912181b87694,Manutencao,Manutencao preventiva em área comum,7584.88,Preventiva,,,,,,
+24,08b31b18-4821-44d9-a605-e8b8ebe4b0d6,Manutencao,Manutencao corretiva em área comum,1222.84,Corretiva,,,,,,
+25,08b31b18-4821-44d9-a605-e8b8ebe4b0d6,Ocorrencia,Reclamação Segurança,,,f3811730-37b9-4c2f-b353-801f8a75a1bb,Josué Pinto,60.0,2024-05-21 00:52:10,2024-05-21 03:10:08.435828,2.3
+26,30c3cba0-1fba-4f23-aef2-fa857c7fe664,Manutencao,Manutencao corretiva em área comum,8348.88,Corretiva,,,,,,
+27,37b152e6-e5a4-461c-8384-39963ddaa2bb,Manutencao,Manutencao preventiva em área comum,9420.74,Preventiva,,,,,,
+28,56c7f0d7-c622-4949-9b94-fd14aaac083d,Manutencao,Manutencao preventiva em área comum,6872.53,Preventiva,,,,,,
+29,08b31b18-4821-44d9-a605-e8b8ebe4b0d6,Ocorrencia,Sugestao Melhoria,,,89d3ef5c-2890-4c8a-99fa-b72eabe00513,Luiz Gustavo Dias,104.0,2024-12-10 21:24:47,2024-12-12 23:09:13.848432,49.74
+30,e0556c4a-ff94-44c7-b9f5-e1845687d385,Manutencao,Manutencao preventiva em área comum,8663.28,Preventiva,,,,,,
+31,2a86bdbf-3db9-4c54-a2fa-83ef78447f4c,Manutencao,Manutencao corretiva em área comum,6838.72,Corretiva,,,,,,
+32,cf9c3484-bb4c-4ef3-9152-427902e737ea,Ocorrencia,Reclamação Segurança,,,981944c3-abd3-4a6c-b25f-4a9586784f70,Isabelly Guerra,1.0,2023-02-13 14:19:59,2023-02-13 16:22:45.409039,2.05
+33,227419a2-cc05-4fab-b891-a30fb680e6de,Ocorrencia,Outros,,,1490f43a-3d5d-4161-9922-62bc61a80213,Maria Luiza Mendonça,90.0,2023-05-24 06:51:39,2023-05-25 18:57:55.476912,36.1
+34,2b906b96-e6eb-4c85-8b76-c115344f44fc,Manutencao,Manutencao preventiva em área comum,6110.13,Preventiva,,,,,,
+35,2a86bdbf-3db9-4c54-a2fa-83ef78447f4c,Ocorrencia,Reclamação Segurança,,,7f4fbc2f-6cf7-4235-bd47-3626dfef4c63,Vinicius Porto,36.0,2023-02-19 22:51:35,2023-02-20 06:22:18.328004,7.51
+36,3f3cb9cc-6e64-435e-b761-4b81d2f9c8df,Ocorrencia,Aluguel De Churrasqueira,,,996e677e-9fbf-41cf-b0b8-41b72b4bbd9c,Sr. Luiz Miguel Lima,128.0,2023-03-24 15:00:57,2023-03-24 22:11:33.270541,7.18
+37,cdba5ec7-abcd-4b39-9209-4449de77af28,Ocorrencia,Sugestao Melhoria,,,0d4a1a11-50ac-4746-9174-f1d61f8dcccd,Dra. Caroline Machado,84.0,2023-02-12 02:57:16,2023-02-14 09:50:17.980728,54.88
+38,818ec8c9-bbee-4986-86c9-539e3927264b,Ocorrencia,Aluguel De Salão De Festas,,,92e8a05c-a2be-41ae-83d3-b3c7278ca47f,Apollo Borges,4.0,2025-08-07 08:56:36,2025-08-07 20:05:05.273842,11.14
+39,e0556c4a-ff94-44c7-b9f5-e1845687d385,Manutencao,Manutencao preventiva em área comum,8606.66,Preventiva,,,,,,
+40,2b906b96-e6eb-4c85-8b76-c115344f44fc,Ocorrencia,Outros,,,4a8e3852-c516-4b88-8d87-4eaf2d165126,Lorena Sampaio,13.0,2023-07-26 15:38:16,2023-07-26 23:04:34.988252,7.44
+41,22b6fb51-827c-4ce7-a6f4-748b961680cb,Manutencao,Manutencao preventiva em área comum,9342.14,Preventiva,,,,,,
+42,0e7822db-67bd-4ef9-9a4e-2f5268546f2f,Ocorrencia,Sugestao Melhoria,,,be4dd52b-5aed-4c02-8aa1-40c710ee0fe1,Nicole da Rosa,67.0,2025-04-13 20:51:37,2025-04-16 08:32:54.164248,59.69
+43,82736f7b-5d7e-4721-864e-85e6c01071ef,Ocorrencia,Pedido Reparo Area Comum,,,2d5b32d1-2479-4df9-9e23-8b1d19db0370,Maria Liz Campos,1.0,2023-03-26 06:20:35,2023-03-29 21:18:28.691447,86.96
+44,c0db1dd5-031d-4d33-8461-a16939c53d35,Ocorrencia,Aluguel De Salão De Festas,,,d1cd31b0-9580-4bf7-94a3-446511a97e43,Maria Eduarda Andrade,21.0,2025-08-08 18:40:31,2025-08-08 19:27:17.233746,0.78
+45,5b18b249-224e-4678-95be-7ae33fcc477c,Ocorrencia,Sugestao Melhoria,,,ec5e7200-80c5-4c2d-80bd-908e6a1dd01d,Carlos Eduardo Aragão,8.0,2024-02-27 02:04:45,2024-02-29 17:56:48.954266,63.87
+46,ddac7f35-6708-48de-b0f6-2b0646a671ed,Ocorrencia,Outros,,,b5adf5f1-58e4-4d66-abf6-403e32f261e8,Gustavo Araújo,56.0,2025-02-02 10:12:33,2025-02-03 21:03:36.012092,34.85
+47,0051c049-0446-48c2-8fda-034d639746be,Ocorrencia,Aluguel De Salão De Festas,,,11c1d0a2-0053-4e66-bbd2-0f8aa3e465dd,Luiz Gustavo Caldeira,47.0,2023-01-31 14:07:39,2023-01-31 19:00:40.346726,4.88
+48,0051c049-0446-48c2-8fda-034d639746be,Manutencao,Manutencao preventiva em área comum,4777.11,Preventiva,,,,,,
+49,56c7f0d7-c622-4949-9b94-fd14aaac083d,Ocorrencia,Aluguel De Churrasqueira,,,cf18789f-24f8-4b36-b48c-677e8d3c2000,Rebeca Martins,31.0,2024-09-14 14:36:23,2024-09-14 15:25:11.582810,0.81
+50,48aa5f9f-d9a6-49c9-b105-75f74b1f43a4,Manutencao,Manutencao preventiva em área comum,8104.78,Preventiva,,,,,,
+51,d9a1b0e1-5789-4e99-ac4e-0c54e849a31b,Ocorrencia,Sugestao Melhoria,,,c76b561a-5272-459a-9c8b-c2adfb77c90c,Danilo da Cunha,4.0,2025-02-12 07:06:33,2025-02-13 03:53:25.428527,20.78
+52,ddac7f35-6708-48de-b0f6-2b0646a671ed,Manutencao,Manutencao preventiva em área comum,5776.51,Preventiva,,,,,,
+53,1167929e-a6fa-4979-aeef-054ba8f0fcb5,Manutencao,Manutencao preventiva em área comum,1851.06,Preventiva,,,,,,
+54,319b2d9f-a573-4ca7-bab7-46cb4d771df0,Manutencao,Manutencao preventiva em área comum,3646.71,Preventiva,,,,,,
+55,06925a78-fe41-4e9d-b988-8b32850f24c4,Ocorrencia,Reclamacao Barulho,,,182b86de-1302-4c22-b003-934386a0d667,Isaque Sales,93.0,2024-05-06 01:39:40,2024-05-06 22:29:36.592203,20.83
+56,c1e14535-b16a-4486-8f21-41998e7c1623,Manutencao,Manutencao preventiva em área comum,7926.21,Preventiva,,,,,,
+57,790ebb70-78eb-449f-b958-a71c48b71396,Manutencao,Manutencao preventiva em área comum,1439.61,Preventiva,,,,,,
+58,b907dfbc-1665-4b7a-8ac4-86567ac8640c,Ocorrencia,Aluguel De Salão De Festas,,,a0a36000-ef3e-4bbe-840d-50b7139ae44b,Sr. Theodoro Sousa,102.0,2023-10-21 06:31:43,2023-10-21 11:03:23.944296,4.53
+59,c2c10be9-691d-445f-a45e-67a4a3b7f656,Manutencao,Manutencao preventiva em área comum,3240.17,Preventiva,,,,,,
+60,06925a78-fe41-4e9d-b988-8b32850f24c4,Ocorrencia,Sugestao Melhoria,,,3cd1c980-b35d-4646-9ada-2eb65f1b603e,Ravy Leão,177.0,2025-05-03 22:05:54,2025-05-04 15:50:00.007354,17.74
+61,c0db1dd5-031d-4d33-8461-a16939c53d35,Manutencao,Manutencao preventiva em área comum,9659.57,Preventiva,,,,,,
+62,0051c049-0446-48c2-8fda-034d639746be,Ocorrencia,Reclamacao Barulho,,,0631382c-c46c-4850-81ab-5d792f54704b,Diego Aparecida,48.0,2024-11-13 00:35:40,2024-11-14 12:30:02.260243,35.91
+63,681c5d84-eb02-45fb-b0c2-c6c422ffac11,Ocorrencia,Sugestao Melhoria,,,9498c3ec-ca6a-418f-a40b-8506f0fb2ff8,Marina Moreira,35.0,2023-06-01 16:23:16,2023-06-04 05:04:37.827743,60.69
+64,c0db1dd5-031d-4d33-8461-a16939c53d35,Ocorrencia,Aluguel De Churrasqueira,,,63672162-4a92-4020-a584-cec1f7d44ed5,Ísis Dias,66.0,2025-01-24 08:06:58,2025-01-24 08:45:51.816778,0.65
+65,6d1d4b5f-affb-4835-bfce-7753e5ca333f,Ocorrencia,Sugestao Melhoria,,,b897218f-2a14-4e9a-8f7f-4e668b0487b1,Isaque da Conceição,14.0,2024-01-02 22:34:00,2024-01-04 21:30:53.839526,46.95
+66,06925a78-fe41-4e9d-b988-8b32850f24c4,Ocorrencia,Problema Vazamento,,,ad7a352d-cae4-400e-8d8b-ddfd800f8dec,Valentina Caldeira,50.0,2024-04-18 23:23:01,2024-04-21 14:46:48.077180,63.4
+67,1167929e-a6fa-4979-aeef-054ba8f0fcb5,Ocorrencia,Aluguel De Churrasqueira,,,9f7c4637-6427-405e-afbe-9b1c66db5925,Marcela da Costa,97.0,2023-09-28 18:34:25,2023-09-29 02:50:37.537271,8.27
+68,1e253136-b36d-48a0-b575-9ff562243b76,Manutencao,Manutencao preventiva em área comum,6419.57,Preventiva,,,,,,
+69,e71fd929-6928-4a0a-b922-8e73b71fe7f7,Manutencao,Manutencao preventiva em área comum,7418.77,Preventiva,,,,,,
+70,0051c049-0446-48c2-8fda-034d639746be,Ocorrencia,Sugestao Melhoria,,,91a6191d-82d3-4e0b-a88e-c7c2ed53b826,Luiza Pires,68.0,2024-04-02 02:37:54,2024-04-03 11:16:59.298590,32.65
+71,37b152e6-e5a4-461c-8384-39963ddaa2bb,Manutencao,Manutencao preventiva em área comum,9745.19,Preventiva,,,,,,
+72,818ec8c9-bbee-4986-86c9-539e3927264b,Ocorrencia,Sugestao Melhoria,,,63ce1c89-6f8b-426a-8a73-bfa1c6e3bbc1,Hellena Andrade,95.0,2023-12-02 01:46:58,2023-12-04 08:22:40.228567,54.6
+73,801ef7f5-2831-47a8-baa0-1bddcc1bf85d,Manutencao,Manutencao corretiva em área comum,6590.88,Corretiva,,,,,,
+74,cba1927c-8f9e-44f6-bfd5-bf465578851c,Manutencao,Manutencao preventiva em área comum,6802.01,Preventiva,,,,,,
+75,818ec8c9-bbee-4986-86c9-539e3927264b,Ocorrencia,Problema Vazamento,,,05cf53cb-22d9-4d62-a1e2-b59efb123870,Luiz Henrique Leão,7.0,2024-08-31 21:06:38,2024-09-02 10:14:08.169756,37.13
+76,48aa5f9f-d9a6-49c9-b105-75f74b1f43a4,Manutencao,Manutencao preventiva em área comum,8604.8,Preventiva,,,,,,
+77,e0556c4a-ff94-44c7-b9f5-e1845687d385,Ocorrencia,Outros,,,b950b29f-1f5f-4009-96a6-38b51d2d302f,Liz Brito,96.0,2023-11-30 13:28:21,2023-12-01 01:02:01.266959,11.56
+78,22b6fb51-827c-4ce7-a6f4-748b961680cb,Manutencao,Manutencao preventiva em área comum,3236.68,Preventiva,,,,,,
+79,2a86bdbf-3db9-4c54-a2fa-83ef78447f4c,Ocorrencia,Sugestao Melhoria,,,57232616-d658-4ac8-b4ec-340b2b350360,Maria Julia da Luz,12.0,2025-02-23 23:10:44,2025-02-24 14:32:45.731952,15.37
+80,1e253136-b36d-48a0-b575-9ff562243b76,Ocorrencia,Problema Vazamento,,,b6af577b-e366-424d-830d-84ad1a6f2b66,Isis Cassiano,40.0,2024-11-19 01:27:35,2024-11-21 03:02:43.523030,49.59
+81,319b2d9f-a573-4ca7-bab7-46cb4d771df0,Manutencao,Manutencao preventiva em área comum,4269.77,Preventiva,,,,,,
+82,227419a2-cc05-4fab-b891-a30fb680e6de,Ocorrencia,Pedido Reparo Area Comum,,,0eebaef8-b289-4515-b085-3cefec8523a5,Isabela Vasconcelos,134.0,2023-07-28 02:48:35,2023-08-04 01:09:29.556996,166.35
+83,1f9e0a4c-5e6e-476e-9b22-996e2e48a126,Ocorrencia,Aluguel De Salão De Festas,,,29a063de-7c6a-4cc7-ad65-afbc96e5380e,Gustavo Carvalho,13.0,2025-07-02 11:42:37,2025-07-02 23:27:15.147982,11.74
+84,4f096d9b-8929-4a1c-83d5-912181b87694,Ocorrencia,Reclamação Segurança,,,a8b9da53-d127-4eb2-b5f5-72da8f7ca401,Sr. Luan Correia,11.0,2023-11-10 05:21:26,2023-11-10 15:59:27.924075,10.63
+85,1e253136-b36d-48a0-b575-9ff562243b76,Ocorrencia,Aluguel De Churrasqueira,,,dfd90e6a-4d55-47da-bce2-806b0170c892,Elisa Sales,68.0,2025-08-06 08:05:32,2025-08-07 00:27:47.098926,16.37
+86,c1e14535-b16a-4486-8f21-41998e7c1623,Ocorrencia,Outros,,,7bb0a8bf-27b7-4157-8871-3168d611e70c,Davi Lucca Montenegro,23.0,2025-03-06 23:29:30,2025-03-07 10:15:53.297530,10.77
+87,0b77795c-0ce1-4ccf-a06e-e76571c41bee,Manutencao,Manutencao corretiva em área comum,2726.36,Corretiva,,,,,,
+88,ad8d392b-fe42-4be8-8e32-c3f41f173174,Ocorrencia,Aluguel De Churrasqueira,,,e52bc80b-7e93-4731-bc30-fd464d90213e,Sra. Maitê Alves,31.0,2023-11-26 23:19:29,2023-11-27 03:31:38.377790,4.2
+89,e82a2823-6955-461a-a940-5799d7f817a8,Ocorrencia,Pedido Reparo Area Comum,,,d518469d-7628-4c58-acb5-2b2940ad4e8e,Maria Júlia Leão,63.0,2023-08-12 02:20:54,2023-08-14 10:52:28.018914,56.53
+90,d9a1b0e1-5789-4e99-ac4e-0c54e849a31b,Ocorrencia,Problema Vazamento,,,a85495d8-4354-4f36-89cb-32ce6332c2ce,Alice Ramos,36.0,2023-03-17 02:49:21,2023-03-19 16:56:20.274415,62.12
+91,4553945c-d613-4102-9101-72e7df0c0520,Manutencao,Manutencao preventiva em área comum,8410.01,Preventiva,,,,,,
+92,e71fd929-6928-4a0a-b922-8e73b71fe7f7,Ocorrencia,Aluguel De Churrasqueira,,,f1189a44-eb05-4fa3-b57e-544b040a5111,Yan Santos,146.0,2024-02-20 13:25:03,2024-02-20 16:46:52.304524,3.36
+93,6d1d4b5f-affb-4835-bfce-7753e5ca333f,Ocorrencia,Reclamacao Barulho,,,d9d99e2a-d7c5-413d-b72c-1af527f73e03,Eduardo Silveira,2.0,2024-06-20 19:52:59,2024-06-21 20:49:52.675142,24.95
+94,37b152e6-e5a4-461c-8384-39963ddaa2bb,Ocorrencia,Sugestao Melhoria,,,d7f764cb-0eee-4dfd-8da6-1bc1ffee1c1f,Noah Cassiano,23.0,2024-12-06 07:19:01,2024-12-07 15:21:21.081875,32.04
+95,cdba5ec7-abcd-4b39-9209-4449de77af28,Ocorrencia,Outros,,,274afdf8-b1c0-41d0-9dbf-91f6e345d45b,Lucas Gabriel Ribeiro,33.0,2023-07-15 01:15:57,2023-07-17 15:59:36.107755,62.73
+96,06925a78-fe41-4e9d-b988-8b32850f24c4,Ocorrencia,Outros,,,b1059ad0-4071-43ae-b076-ea797446465c,Fernanda Campos,4.0,2023-03-26 16:58:25,2023-03-29 15:33:17.175081,70.58
+97,22b6fb51-827c-4ce7-a6f4-748b961680cb,Ocorrencia,Aluguel De Churrasqueira,,,ad6f881a-269c-447f-a56f-39c8ab3e445e,Cauã Nascimento,74.0,2023-05-02 11:44:38,2023-05-02 17:31:25.384783,5.78
+98,e71fd929-6928-4a0a-b922-8e73b71fe7f7,Ocorrencia,Aluguel De Salão De Festas,,,84dc7cc6-5aba-43ba-86db-800974525644,Sr. Thomas Martins,59.0,2023-04-17 10:27:46,2023-04-17 15:14:44.816441,4.78
+99,cf9c3484-bb4c-4ef3-9152-427902e737ea,Ocorrencia,Reclamação Segurança,,,939cd5af-dc30-4ab3-a411-651a06c80cd5,Apollo Abreu,9.0,2023-02-11 08:36:33,2023-02-11 23:43:11.593452,15.11
+100,37b152e6-e5a4-461c-8384-39963ddaa2bb,Ocorrencia,Reclamacao Barulho,,,e66d6d0c-7bbd-45e6-9efd-707f57d62ec7,Joaquim Rocha,16.0,2024-11-20 11:40:51,2024-11-20 23:07:51.556955,11.45
