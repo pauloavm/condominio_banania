@@ -28,7 +28,7 @@ ocorrencias_tipos = {
     "sugestao_melhoria": (1, 72),
     "reclamação_segurança": (0.5, 24),
     "aluguel de salão de festas": (0.5, 12),
-    "aluguel de churrasqueira": (0.5, 17), 
+    "aluguel de churrasqueira": (0.5, 17),
     "outros": (1, 72),
 }
 
