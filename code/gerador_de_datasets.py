@@ -4,7 +4,7 @@ import random
 from datetime import datetime, timedelta
 
 # Inicializando a Faker com várias localidades
-locales = ["pt_BR", "en_US"]
+locales = ["pt_BR"]
 faker = Faker(locales)
 
 # --- Modelos de Dados ---
@@ -15,6 +15,9 @@ despesas_fixas_tipos = {
     "folha_de_pagamento": 10.0,  # Valor por unidade
     "serviços_gerais": 5.0,  # Valor por unidade
     "fundo_de_reserva": 5.0,  # Valor por unidade
+    "seguro predial": 3.0,  # Valor por unidade
+    "seguro do elevador": 1.0,  # Valor por unidade
+    "limpeza": 4.0,  # Valor por unidade
 }
 
 # Tipos de ocorrências de moradores e seu tempo médio de resolução em horas
@@ -24,6 +27,9 @@ ocorrencias_tipos = {
     "pedido_reparo_area_comum": (24, 168),
     "sugestao_melhoria": (1, 72),
     "reclamação_segurança": (0.5, 24),
+    "aluguel de salão de festas": (0.5, 12),
+    "aluguel de churrasqueira": (0.5, 17), 
+    "outros": (1, 72),
 }
 
 # Tipos de manutenção (preventiva vs. corretiva)
