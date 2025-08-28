@@ -3,7 +3,7 @@ from faker import Faker
 import random
 from datetime import datetime, timedelta
 
-# Inicializando a Faker com várias localidades
+# Inicializando a localidade da Faker
 locales = ["pt_BR"]
 faker = Faker(locales)
 
