@@ -2,6 +2,8 @@
 
 🌐 **Demo online:** [https://condominios.streamlit.app/](https://condominios.streamlit.app/)
 
+![Dashboard de condomínios](docs/img/dashboard.png)
+
 Este projeto consiste em uma solução de análise de dados ponta a ponta para o setor de administração de condomínios. Ele utiliza dados fictícios gerados proceduralmente para simular os principais fluxos de trabalho e métricas de desempenho (KPIs) de uma administradora, apresentando-os em um dashboard interativo construído com Streamlit.
 
 ## 🎯 Problema de Negócio
